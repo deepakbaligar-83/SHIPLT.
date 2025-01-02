@@ -55,9 +55,9 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
+  color: #fff;
   text-align: left;
-  background-color: #fff; }
+  background-color: #212529; }
 
 [tabindex="-1"]:focus {
   outline: 0 !important; }
@@ -451,7 +451,8 @@ pre {
   padding-right: 15px;
   padding-left: 15px;
   margin-right: auto;
-  margin-left: auto; }
+  margin-left: auto;
+ margin-top: 15px; }
   @media (min-width: 576px) {
     .container {
       max-width: 540px; } }
@@ -8137,7 +8138,7 @@ body {
   font-size: 16px;
   line-height: 1.8;
   font-weight: normal;
-  background: #fafafa;
+  background:#F8FAFC;
   color: gray; }
 
 a {
