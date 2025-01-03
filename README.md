@@ -36,7 +36,7 @@ SHIPLT is a shipment tracking system designed to ensure the authenticity of prod
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/A4ANK/Fake-Product-Identification.git
+    https://github.com/deepakbaligar-83/SHIPLT.
     ```
 
 2. **Navigate to the project folder and install required dependencies**:
