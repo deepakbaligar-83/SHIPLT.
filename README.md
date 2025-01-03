@@ -2,9 +2,9 @@ SHIPLT
 
 SHIPLT is a shipment tracking system designed to ensure the authenticity of products across the supply chain using Blockchain technology. It involves three key entities: Manufacturer, Seller, and Consumer. The system generates QR codes to verify product details and ensures each stage of the product's journey is tracked.
 
-![Screenshot 2025-01-03 185900](https://github.com/user-attachments/assets/e273ace2-3272-417b-8fac-4ca1bd4fa31d)
-
-
+<a href="https://ship-chi.vercel.app/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/e273ace2-3272-417b-8fac-4ca1bd4fa31d" alt="ShipLT Screenshot" />
+</a>
 
 ## Features
 
