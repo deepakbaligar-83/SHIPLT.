@@ -83,4 +83,4 @@ SHIPLT is a shipment tracking system designed to ensure the authenticity of prod
 <h2>Team</h2>
 
 - [Deepak Baligar](https://github.com/deepakbaligar-83)<br>
-- [Om Bevinakatti]((https://github.com/ombevin453))<br>
+- [Om Bevinakatti](https://github.com/ombevin453)<br>
