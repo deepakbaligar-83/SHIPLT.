@@ -79,3 +79,8 @@ SHIPLT is a shipment tracking system designed to ensure the authenticity of prod
 8. **Login to MetaMask and connect the added account to the local blockchain (localhost:3000)**.
 
 9. **Interact with the website to track and verify products**.
+
+<h2>Team</h2>
+
+- [Deepak Baligar](https://github.com/deepakbaligar-83)<br>
+- [Om Bevinakatti]((https://github.com/ombevin453))<br>
