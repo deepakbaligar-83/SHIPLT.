@@ -5,6 +5,14 @@ SHIPLT is a shipment tracking system designed to ensure the authenticity of prod
 <a href="https://ship-chi.vercel.app/" target="_blank">
   <img src="https://github.com/user-attachments/assets/e273ace2-3272-417b-8fac-4ca1bd4fa31d" alt="ShipLT Screenshot" />
 </a>
+</br>
+</br>
+
+## Team
+
+- [Deepak Baligar](https://github.com/deepakbaligar-83)<br>
+- [Om Bevinakatti](https://github.com/ombevin453)<br>
+
 
 ## Features
 
@@ -79,8 +87,3 @@ SHIPLT is a shipment tracking system designed to ensure the authenticity of prod
 8. **Login to MetaMask and connect the added account to the local blockchain (localhost:3000)**.
 
 9. **Interact with the website to track and verify products**.
-
-<h2>Team</h2>
-
-- [Deepak Baligar](https://github.com/deepakbaligar-83)<br>
-- [Om Bevinakatti](https://github.com/ombevin453)<br>
